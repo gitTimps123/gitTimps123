@@ -1,5 +1,5 @@
-- 👋 Hi, I’m timps_coding world
-- 👀 I’m interested in latest tech
+- 👋 Hi, I’m Satish kumar
+- 👀 I’m interested in latest tech.
 - 🌱 I’m currently learninng data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
